@@ -8,7 +8,6 @@ tags:
 - tag3
 categories:
 - cat1
-draft: true
 
 ---
 A.md dosyamız
